@@ -4,7 +4,7 @@
 
 This is my first DevOps mini project.
 
-In this project, I created a simple Bash script to perform a quick health check on a Linux server. I wrote the script on my local machine, pushed it to GitHub using Git, and then cloned and ran it on an AWS EC2 instance.
+The purpose of this project is to create a simple Bash script that performs a quick health check on a Linux server. The script was created on my local machine, pushed to GitHub using Git, and then cloned and executed on an AWS EC2 instance.
 
 ## Features
 
@@ -58,7 +58,7 @@ Run the script:
 
 - Writing a basic Bash script
 - Using Linux commands to check server resources
-- Working with Git and GitHub
+- Using Git and GitHub for version control
 - Connecting to an AWS EC2 instance using SSH
 - Cloning a GitHub repository on an EC2 instance
 - Running a Bash script on a remote Linux server
