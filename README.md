@@ -39,7 +39,7 @@ server-health-check-script/
 Clone the repository:
 
 ```bash
-git clone https://github.com/maradahemanthkumar227-cse/server-health-check-script.git
+git clone https://github.com/iam-hemanthkumar/server-health-check-script.git
 ```
 
 Go to the project folder:
